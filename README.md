@@ -1,10 +1,10 @@
-
-
 * [Area](#area)
 
 * [Bars](#bars)
 
 * [Combined](#combined)
+
+* [Dashboard](#dashboard)
 
 * [DonutPie](#donutpie)
 
@@ -31,6 +31,8 @@
 ![](Dashboard/Area/AreaGreenAqua.png)
 
 ![](Dashboard/Area/AreaRed.png)
+
+![](Dashboard/Area/Areat.png)
 
 ![](Dashboard/Area/areahov.png)
 
@@ -80,6 +82,8 @@
 ![](Dashboard/Bars/SimpleBar.png)
 
 ![](Dashboard/Bars/bahvrs.png)
+
+![](Dashboard/Bars/barb.png)
 
 ![](Dashboard/Bars/bargrn.png)
 
@@ -139,6 +143,57 @@
 ![](Dashboard/Combined/barlinepieprogress.png)
 
 
+# Dashboard  
+
+![](Dashboard/Dashboard/0_7oXBLIfp6sR50bFK.png)
+
+![](Dashboard/Dashboard/1_37JgftqCrtEB_Rp-7IyQdg.png)
+
+![](Dashboard/Dashboard/1_a8JAtWTliCTBLIHLZfjydw.png)
+
+![](Dashboard/Dashboard/1_hsDtZfGRgmYWlgogaRsG7g.gif)
+
+![](Dashboard/Dashboard/Cryptocurrency_cover.png)
+
+![](Dashboard/Dashboard/HD.png)
+
+![](Dashboard/Dashboard/dashboard-kit-nicoletta-bruno.jpg)
+
+![](Dashboard/Dashboard/preview (1).jpg)
+
+![](Dashboard/Dashboard/preview (1).png)
+
+![](Dashboard/Dashboard/preview (10).png)
+
+![](Dashboard/Dashboard/preview (11).png)
+
+![](Dashboard/Dashboard/preview (2).jpg)
+
+![](Dashboard/Dashboard/preview (2).png)
+
+![](Dashboard/Dashboard/preview (3).jpg)
+
+![](Dashboard/Dashboard/preview (3).png)
+
+![](Dashboard/Dashboard/preview (4).png)
+
+![](Dashboard/Dashboard/preview (5).png)
+
+![](Dashboard/Dashboard/preview (6).png)
+
+![](Dashboard/Dashboard/preview (7).png)
+
+![](Dashboard/Dashboard/preview (8).png)
+
+![](Dashboard/Dashboard/preview (9).png)
+
+![](Dashboard/Dashboard/preview.jpg)
+
+![](Dashboard/Dashboard/preview.png)
+
+![](Dashboard/Dashboard/teacher-dashboard-gregoire-vella.png)
+
+
 # DonutPie  
 
 ![](Dashboard/DonutPie/DonutLabels.png)
@@ -183,6 +238,8 @@
 ![](Dashboard/Line/LineStats.png)
 
 ![](Dashboard/Line/LineTooltip.png)
+
+![](Dashboard/Line/MultiLine (2).png)
 
 ![](Dashboard/Line/Multiline.png)
 
@@ -356,6 +413,8 @@
 
 ![](Dashboard/Misc/props.png)
 
+![](Dashboard/Misc/radialArea.png)
+
 ![](Dashboard/Misc/savingHeatmap.png)
 
 ![](Dashboard/Misc/scattefigs.png)
@@ -417,6 +476,8 @@
 
 # Roses  
 
+![](Dashboard/Roses/rosa.png)
+
 ![](Dashboard/Roses/rose (2).png)
 
 ![](Dashboard/Roses/rose (3).png)
@@ -451,5 +512,3 @@
 ![](Dashboard/plots/scatterplot.png)
 
 ![](Dashboard/plots/scatters.png)
-
-
